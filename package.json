@@ -3,6 +3,7 @@
 		"hapi": "*",
 		"handlebars": "*",
 		"fs": "*",
-		"rot13-transform": "*"
+		"rot13-transform": "*",
+		"joi": "*"
 	}
 }
