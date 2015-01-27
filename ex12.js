@@ -1,5 +1,4 @@
 var hapi = require('hapi');
-var Joi = require('Joi');
 var server = new hapi.Server();
 server.connection({
     host: 'localhost',
